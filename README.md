@@ -1,5 +1,7 @@
 # Web Music Trip
 
+See project live [here](https://web-music-trip.netlify.app/)
+
 ## About
 
 I like to make music, and I like to write code, so I desided to learn all the things I need to create musical applications in the web.
