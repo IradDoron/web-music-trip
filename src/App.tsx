@@ -1,5 +1,7 @@
+import Grid from 'components/Grid';
+
 function App() {
-	return <h1>Web Music Trip</h1>;
+	return <Grid />;
 }
 
 export default App;
