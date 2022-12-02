@@ -14,7 +14,7 @@ It's kind of a mishmash between a blog, docs, and demos, but at the core it's a 
 ---
 ## How to use this website
 
-Basically, the main page a collection of links to different tutorials, demos and docs.
+Basically, the main page is a collection of links to different tutorials, demos and docs.
 
 Each square is a link. Click on them to open a modal that describes the content, and then click on the enterence button to enter the page.
 
